@@ -1,1 +1,1 @@
-# CI-CD-_weather_app_Django
+# CI/CD_weather_app_Django
